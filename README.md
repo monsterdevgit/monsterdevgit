@@ -1,7 +1,7 @@
 ![logo](https://github.com/monsterdevgit/monsterdevgit/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Kenneth Essien</h1>
-<h3 align="center">A Data Scientist/Analyst from Nigeria</h3>
+<h3 align="center">A Data Scientist/AI Engineer from Nigeria</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
